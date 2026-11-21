@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T19:33:03+00:00",
+  "updated_at": "2026-11-21T19:33:11+00:00",
   "burst_id": "f8b38aef",
   "burst_started_epoch": 1795289553,
   "burst_size": 6,
-  "commit_index": 5,
-  "burst_complete": false,
-  "nonce": "e9b969b8e0bc4a2a",
-  "next_burst_epoch": 1795289553,
-  "next_burst_at": "2026-11-21T19:32:33+00:00",
+  "commit_index": 6,
+  "burst_complete": true,
+  "nonce": "0158940c7d49a3ba",
+  "next_burst_epoch": 1795375991,
+  "next_burst_at": "2026-11-22T19:33:11+00:00",
   "history": [
     {
       "burst_id": "5f5baa3f",
@@ -109,6 +109,12 @@
       "burst_id": "3ac5c2fb",
       "started": "2026-11-20T19:32:01+00:00",
       "finished": "2026-11-20T19:32:33+00:00",
+      "commits": 6
+    },
+    {
+      "burst_id": "f8b38aef",
+      "started": "2026-11-21T19:32:33+00:00",
+      "finished": "2026-11-21T19:33:11+00:00",
       "commits": 6
     }
   ]
