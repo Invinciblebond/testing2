@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22T19:33:15+00:00",
+  "updated_at": "2026-11-22T19:33:23+00:00",
   "burst_id": "588d3ee4",
   "burst_started_epoch": 1795375991,
   "burst_size": 7,
-  "commit_index": 2,
+  "commit_index": 3,
   "burst_complete": false,
-  "nonce": "246a71274ccc020c",
+  "nonce": "8237a1129968261f",
   "next_burst_epoch": 1795375991,
   "next_burst_at": "2026-11-22T19:33:11+00:00",
   "history": [
